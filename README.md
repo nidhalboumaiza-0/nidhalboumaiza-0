@@ -1,8 +1,9 @@
-<h1 align="center">Nidhal Boumaiza</h1>
+<p align="center">
+  <img src="banner.svg" alt="Nidhal Boumaiza — Software Engineer & Flutter / Full-Stack Developer" width="100%"/>
+</p>
 
 <p align="center">
-  <strong>Software Engineer &nbsp;·&nbsp; Flutter Mobile Developer &nbsp;·&nbsp; Full-Stack Developer</strong><br/>
-  Tunis, Tunisia &nbsp;·&nbsp; Open to on-site, hybrid and remote roles
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Mobile+Developer;Flutter+%E2%80%A2+Dart+%E2%80%A2+BLoC+%E2%80%A2+iOS+%26+Android;2+Apps+Published+on+App+Store+%26+Google+Play;Full-Stack%3A+Laravel+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;Open+to+On-site%2C+Hybrid+%26+Remote+Roles" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -15,30 +16,30 @@
 
 ---
 
-### About
+### About Me
 
-I'm a software engineer (Engineering degree in Software Engineering, Iteam University) who builds mobile and web products end to end — Flutter apps, the APIs behind them, and the admin dashboards that run them.
+I'm a **Software Engineer** (Engineering degree in Software Engineering, Iteam University) who builds mobile and web products end to end — Flutter apps, the APIs behind them, and the admin dashboards that run them.
 
-- **Shipping to the stores:** I designed, built and published **Barberio**, a barber-booking app, on the App Store and Google Play under my own developer account.
-- **Client work:** since September 2025 I've been a Flutter developer on a remote contract with **AL Manarah Advanced Company** (Saudi Arabia), working on **Maqra'at Al-Rajhi**, a Quran-learning app with live audio sessions, available on both stores.
-- **Graduation project (PFE):** at **eSteps Health** I built the CIRO restaurant platform — three Flutter apps, a Laravel 12 backend with real-time WebSockets, and a Next.js admin back office, containerised with Docker.
-- **Languages:** Arabic (native), French (fluent), English (professional).
+- 🚀 **Shipping to the stores:** I designed, built and published **Barberio**, a barber-booking app, on the **App Store** and **Google Play** under my own developer account.
+- 📱 **Client work:** Since September 2025 I've been a Flutter developer on a remote contract with **AL Manarah Advanced Company** (Saudi Arabia), building **Maqra'at Al-Rajhi**, a Quran-learning app with live audio sessions, live on both stores.
+- 🎓 **Graduation project (PFE):** At **eSteps Health** I built the **CIRO** smart restaurant platform — three Flutter apps (client, kiosk, rider), a Laravel 12 backend with real-time WebSockets (Reverb), a Next.js 16 admin back office, and SCADA robotic supervision, containerised with Docker.
+- 🌍 **Languages:** Arabic (native), French (fluent), English (professional).
 
 ---
 
-### Tech stack
+### Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) BLoC · Push notifications · Google Maps · Arabic RTL / i18n · Store releases |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) BLoC · Push notifications · Google Maps · Arabic RTL / i18n · App Store &amp; Google Play releases |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) REST APIs · WebSockets (Laravel Reverb, Socket.IO) |
-| **Data & BaaS** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) MariaDB · Prisma |
-| **DevOps & tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Postman · VPS deployment |
+| **Data &amp; BaaS** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) MariaDB · Prisma |
+| **DevOps &amp; Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Postman · VPS deployment |
 
 ---
 
-### Featured work
+### Featured Work
 
 | Project | What it is | Stack | Status |
 | --- | --- | --- | --- |
@@ -57,13 +58,13 @@ Screenshots and store links for every project are on my **[portfolio](https://ni
 
 ---
 
-### Experience
+### Experience Snapshot
 
 | Role | Company | Period |
 | --- | --- | --- |
 | Flutter Mobile Developer (remote contract via goLance) | AL Manarah Advanced Company — Riyadh, Saudi Arabia | 09/2025 – present |
 | Software Engineering Intern — Graduation project (PFE) | eSteps Health — Tunis | 02/2026 – 09/2026 |
-| Mobile & Backend Development Intern — Bachelor's final project | Neopolis Development — Nabeul | 02/2023 – 05/2023 |
+| Mobile &amp; Backend Development Intern — Bachelor's final project | Neopolis Development — Nabeul | 02/2023 – 05/2023 |
 | Development Intern | CPG (Compagnie des Phosphates de Gafsa) — Gafsa | 01/2023 – 02/2023 |
 | Introductory Intern (e-commerce / PrestaShop) | Evolve'Com — Tunis | 01/2022 – 02/2022 |
 
@@ -72,5 +73,6 @@ Screenshots and store links for every project are on my **[portfolio](https://ni
 ---
 
 <p align="center">
-  Open to <strong>Software Engineer, Flutter / Mobile, and Full-Stack</strong> roles. The fastest way to reach me is by <a href="mailto:nidhal.boumaiza@outlook.com">email</a> or <a href="https://linkedin.com/in/nidhalboumaiza">LinkedIn</a>.
+  Open to <strong>Software Engineer, Flutter / Mobile, and Full-Stack</strong> roles.<br/>
+  The fastest way to reach me is by <a href="mailto:nidhal.boumaiza@outlook.com">email</a> or on <a href="https://linkedin.com/in/nidhalboumaiza">LinkedIn</a>.
 </p>
